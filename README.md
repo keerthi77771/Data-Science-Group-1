@@ -81,4 +81,10 @@ You can now open the notebook:
   (.venv) jupyter notebook 'Stage 1 (1).ipynb'
 "
 
+# OR
+## Directly get the dataset
+
+You can download the dataset directly from Google Drive:
+
+👉 [Download data/newdata.csv](https://drive.google.com/file/d/1xbwo_aYWxF0Cw90QygnfT1lA-RzsNkS7/view?usp=sharing)
 
