@@ -1,6 +1,6 @@
 # Data-Science-Group-1
 
-This repo contains the Stage-1 notebook and report.  
+This repo currently contains the Stage-1 notebook and report.  
 The dataset (`data/newdata.csv`) is **not committed** due to size/privacy.  
 Use the provided script to fetch it locally.
 
